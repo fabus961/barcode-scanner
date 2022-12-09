@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/barcode-scanner.git"
+    "url": "git+https://github.com/fabus961/barcode-scanner.git"
   },
   "bugs": {
     "url": "https://github.com/capacitor-community/barcode-scanner/issues"
